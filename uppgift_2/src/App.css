@@ -1,0 +1,29 @@
+.activity h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.activity p {
+    color: gray;
+    margin: 0;
+}
+
+.activity .descriptionCSS {
+    width: 25rem;
+    word-break: break-word;
+}
+
+.activity i {
+    font-size: 20px;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.green {
+    color: limegreen;
+}
+
+.red {
+    color: red;
+}
